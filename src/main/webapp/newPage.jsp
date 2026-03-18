@@ -8,7 +8,7 @@
 </head>
 <body>
 <h2>This is our new committed page...</h2>
-<h2>We are testing webhook...</h2>
+<h2>We are testing Webhook and CICD Pipeline...</h2>
 </br></br>
 <a href="index.jsp">Back</a>
 </body>
